@@ -1,0 +1,336 @@
+{
+    "profile": {
+        "first_name": "Ja'afar",
+        "middle_names": "Aden",
+        "last_name": "Kosar",
+        "date_of_birth": "19-08-1987",
+        "place_of_birth": "'Garissa, Kenya",
+        "biography": "I am an allround web developer. I am a senior programmer with good knowledge of front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and more. As the saying goes: 'two heads are better than one'.",
+        "current_location": {
+            "street": "********",
+            "housenumber": 0,
+            "zipcode": "********",
+            "city": "'Torino",
+            "country": "Italy",
+            "planet": "Earth"
+        }
+    },
+    "contact_details": {
+        "email": "jeff3013@gmail.com",
+        "phone": "+393471533613",
+        "skype": "jeff3013",
+        "website": "http://www.jaafaraden.com/",
+        "twitter": "http://twitter.com/jeff3013",
+        "linkedin": "http://www.linkedin.com/pub/ja-afar-aden kosar/5a/8b4/694/"
+    },
+    "educations": [
+        {
+            "title": "Politecnico Di Torino",
+            "specification": "Telecommunication Engineering(Specialization:Wireless Systems)",
+            "location": "Torino,Italy",
+            "level": "Msc.",
+            "description": "The education was mainly Java-based programming, but I also learned about SQL, PHP, MVC, UML and more. During my time in college, I specialized in multimedia. Here I learned about gaming -the importance of OOP-, web- and user experience and design.",
+            "start_date": "03-2012",
+            "end_date": "10-2014",
+            "completed": In Progress
+        },
+        {
+            "title": "Politecnico Di Torino",
+            "specification": "Electronic and Computer Engineering",
+            "location": "Torino,Italy",
+            "level": "Bachelor",
+            "description": "I graduated highschool, where I enjoyed doing science, math, biology and arts. I realized in my third year of school that I wanted to do something with websites, and so I started making small flash/actionscript applications.",
+            "start_date": "09-2007",
+            "end_date": "03-2012",
+            "completed": true
+        },
+{
+            "title": "County High School",
+            "specification": "General Studies",
+            "location": "Garissa,Kenya",
+            "level": "High School",
+            "description": "I graduated highschool, where I enjoyed doing Physics, Math, Biology and Languages.",
+            "start_date": "03-2003",
+            "end_date": "11-2006",
+            "completed": true
+        }
+    ],
+    "careers": [
+        {
+            "title": " CSP – Innovazione nelle ICT",
+            "specification": "Research Associate",
+            "location": "Torino,Italy",
+            "level": "Fulltime",
+            "description": "I am currently working on the field of Software Defined Networking where I am trying to implement OpenFLow for Wireless Access Point so that we can achieve a Seamless Handover of Clients.",
+            "start_date": "04-2014",
+            "end_date": "10-2014",
+			"link": "http://www.csp.it/"
+        },
+        
+        {
+            "title": "Vodafone Italia",
+            "specification": "Security Analyst",
+            "location": "Milano,Italy",
+            "level": "Graduate Internship",
+            "description": "Analysis of Computer and Communication Network Architectures, with specific reference to the Telecommunication Sector
+- Analysis of the contemporary Network Security threats and incidents, scouting of solutions.",
+            "start_date": "09-2012",
+            "end_date": "04-2013"
+        },
+        {
+            "title": "ASH Security Services",
+            "specification": "",
+            "location": "Amsterdam",
+            "level": "Graduate Internship",
+            "description": "My second internship and the place I eventually graduated, was at Davinci. I investigated new web-technologies they could possibly use to improve the front-end of their java-based CRM system. I compared technologies such as Adobe Flex, Silverlight, Ruby on Rails together, to find out which could work best for the company. Based on the results of my research, the company eventually decided to use the ZK Framework.",
+            "start_date": "2008-02-01",
+            "end_date": "2008-07-01",
+			"link": "http://www.davincigroep.nl/"
+        },
+        
+        }
+    ],
+    "Programming Skills": [
+        {
+            "title": "PHP",
+			"level": 3,
+            "level_detailed": 6,
+            "endorsement": ""
+        },
+        {
+            "title": "MySQL",
+			"level": 4,
+            "level_detailed": 7,
+            "endorsement": ""
+        },
+        {
+            "title": "HTML",
+			"level": 4,
+            "level_detailed": 6,
+            "endorsement": ""
+        },
+        {
+            "title": "CSS",
+			"level": 3,
+            "level_detailed": 5,
+            "endorsement": ""
+        },
+        {
+            "title": "Javascript",
+			"level": 3,
+            "level_detailed": 5,
+            "endorsement": ""
+        },
+        {
+            "title": "JQuery",
+			"level": 3,
+            "level_detailed": 5,
+            "endorsement": ""
+        },
+        
+		
+        {
+            "title": "XML",
+			"level": 3,
+            "level_detailed": 4,
+            "endorsement": ""
+        },
+        {
+            "title": "Bootstrap 2/3",
+			"level": 4,
+            "level_detailed": 8,
+            "endorsement": ""
+        },
+        {
+            "title": "Wordpress",
+			"level": 4,
+            "level_detailed": 7,
+            "endorsement": ""
+        },
+        {
+            "title": "Object Orientated Programming",
+			"level": 4,
+            "level_detailed": 8,
+            "endorsement": ""
+        },
+        
+        
+        {
+            "title": "Command line",
+			"level": 3,
+            "level_detailed": 6,
+            "endorsement": ""
+        },
+       
+        {
+            "title": "Python",
+			"level": 3,
+            "level_detailed": 3,
+            "endorsement": ""
+        },
+        {
+            "title": "Java",
+			"level": 3,
+            "level_detailed": 4,
+            "endorsement": ""
+        },
+        {
+            "title": "Ruby",
+			"level": 2,
+            "level_detailed": 3,
+            "endorsement": ""
+        },
+        {
+            "title": "C/C++",
+			"level": 4,
+            "level_detailed": 5,
+            "endorsement": ""
+        }
+    ],
+    "languages": [
+        {
+            "title": "Somali",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "Mother tongue"
+        },
+        {
+            "title": "Swahili",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "Native or bilingual Proficiency"
+        },
+        {
+            "title": "English",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "Native or bilingual Proficiency"
+        },
+        {
+            "title": "Italian",
+			"level": 4,
+            "level_detailed": 7,
+            "endorsement": ""
+        },
+        {
+            "title": "Spanish",
+			"level": 2,
+            "level_detailed": 3,
+            "endorsement": ""
+        },
+        {
+            "title": "Arabic",
+			"level": 1,
+            "level_detailed": 2,
+            "endorsement": ""
+        }
+    ],
+    "tools": [
+        {
+            "title": "Notepad++",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "7 years"
+        },
+        {
+            "title": "Filezilla",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "8 years"
+        },
+        {
+            "title": "MS Office",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "5+ years"
+        },
+        
+        {
+            "title": "Coda",
+			"level": 3,
+            "level_detailed": 6,
+            "endorsement": "1 year"
+        },
+        {
+            "title": "Windows",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "8+ years"
+        },
+        {
+            "title": "Mac",
+			"level": 4,
+            "level_detailed": 8,
+            "endorsement": "2 years"
+        },
+        {
+            "title": "Firefox",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "5+ years"
+        },
+        {
+            "title": "Matlab/Simulink",
+			"level": 4,
+            "level_detailed": 4,
+            "endorsement": "3+ years"
+        },
+        {
+            "title": "Internet Explorer 6+",
+			"level": 5,
+            "level_detailed": 9,
+            "endorsement": "5+ years"
+        },
+        {
+            "title": "Linux Systems",
+			"level": 4,
+            "level_detailed": 8,
+            "endorsement": "2+ years"
+        },
+        {
+            "title": "Radio Planning",
+			"level": 3,
+            "level_detailed": 5,
+            "endorsement": "1+ years"
+        },
+        {
+            "title": "Subversion",
+			"level": 4,
+            "level_detailed": 7,
+            "endorsement": "5 years"
+        },
+        {
+            "title": "Git",
+			"level": 2,
+            "level_detailed": 3,
+            "endorsement": "1 year"
+        }
+    ],
+    "interests": [
+        {
+            "title": "Sports",
+            "description": "I couldn't live without sports. In the weekend you will find me riding my mountainbike - just check out my Runkeeper. Once or twice a week, you'll find me in the gym or at the tracks to train my pole vaulting. I just love the adrenaline rush!",
+			"image": "sports.png"
+        },
+        {
+            "title": "Music",
+            "description": "I can listen to music all day. I have a varied taste of music and I listen to it at work, during sports, riding my bike, on the train... I play guitar myself and would love to own a drum-kit some day.",
+			"image": "music.png"
+        },
+        {
+            "title": "My Cats",
+            "description": "If you look up my social networks, you'll surely come across one of my cats. Because what is the internet without cats? Nothing, right? And I'm an internet man, so one and one makes two.",
+			"image": "cats.png"
+        },
+        {
+            "title": "Algorithms",
+            "description": "I love solving riddles and problems and building stuff from scratch. My strong suit is that I don't give up without a fight. When trying to find the solution to a problem, I will not quit until I find at least one. The satisfaction I get from solving a problem can really make my day.",
+			"image": "algorithms.png"
+        },
+        {
+            "title": "Travel",
+            "description": "When I was 19 I traveled by plane for the first time, and after that I was hooked. I went to the United States twice, Surinam, Greece, Malta, the Canary Islands and more. But as much as I love the sun, I also love going to the Alps for some snowboarding.",
+			"image": "travel.png"
+        }
+    ]
+}
