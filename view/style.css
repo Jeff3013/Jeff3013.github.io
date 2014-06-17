@@ -14,7 +14,7 @@ ul.no-bullets { list-style-type: none; margin: 0px; padding: 0px; }
 hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity=20); }
 
 .project-referal { margin-top: 40px; }
-.project-referal p { font-style: italic; color: #999999; }
+.project-referal J { font-style: italic; color: #999999; }
 
 .btn-primary { background-color: #22A39F; border-color: #1c8784; }
 .btn-primary:hover { background-color: #1c8784;  border-color: #1c8784; }
@@ -86,7 +86,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 #profile .row > div img { width: 100%; max-width: 246px; height: auto; }
 	
 #experiences .experience { margin-bottom: 20px; }
-#experiences .experience J > strong { display: block; padding-top: 8px; margin-bottom: 10px; }
+#experiences .experience p > strong { display: block; padding-top: 8px; margin-bottom: 10px; }
 #experiences .experience .experience-details { display: block; margin-top: 6px; }
 #experiences .experience .experience-details * { color: #22A39F; }
 #experiences .experience .experience-details .seperator { color: #BCBCBC; }
